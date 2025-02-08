@@ -111,6 +111,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ocj1CgmqMz30wy2Bw-0x-53" value="用户的 openid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ocj1CgmqMz30wy2Bw-0x-51">
+          <mxGeometry x="-0.1606" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ocj1CgmqMz30wy2Bw-0x-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1c1d494c118603dd-1" source="ocj1CgmqMz30wy2Bw-0x-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="181" y="410" as="targetPoint" />
